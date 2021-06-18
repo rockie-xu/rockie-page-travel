@@ -1,4 +1,4 @@
-baseURL = "http://travel.rockie-xu.dev"
+baseURL = "https://travel.rockie-xu.dev"
 languageCode = "en-us"
 title = "My Travel Timeline"
 theme = "hugo-theme-timeline"
