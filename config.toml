@@ -1,6 +1,6 @@
 baseURL = "https://travel.rockie-xu.dev"
 languageCode = "en-us"
-title = "My Travel Timeline"
+title = "Rockie-Xu Travel Timeline"
 theme = "hugo-theme-timeline"
 
 PygmentsCodeFences = true
@@ -37,7 +37,7 @@ disableHugoGeneratorInject = false
   posts = "/posts/:year/:month/:title/"
 
 [author]
-  name = "timeline"
+  name = "rockie-xu"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -74,7 +74,7 @@ disableHugoGeneratorInject = false
 
   # Integrate Javascript files or stylesheets by adding the url to the external assets or by
   # linking local files with their path relative to the static folder, e.g. "css/styles.css"
-  customCSS = ["css/custom.css"]
+  customCSS = ["/css/custom.css"]
   customJS  = []
 
   # Toggle this option need to rebuild SCSS, requires extended version of Hugo
